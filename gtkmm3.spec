@@ -2,12 +2,12 @@
 
 Summary:	A C++ interface for the GTK+
 Name:		gtkmm3
-Version:	3.12.0
+Version:	3.14.0
 Release:	1
 License:	LGPL
 Group:		X11/Libraries
-Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/gtkmm/3.12/gtkmm-%{version}.tar.xz
-# Source0-md5:	526bfbf8705468fa44b4c2a16cb0138e
+Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/gtkmm/3.14/gtkmm-%{version}.tar.xz
+# Source0-md5:	b66c32042cfbb7e5f707237b4efff4de
 URL:		http://gtkmm.sourceforge.net/
 BuildRequires:	atkmm-devel
 BuildRequires:	autoconf
